@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>1406001NB01</hostname>
+      <hostId/>
+      <osName>Windows NT (unknown)</osName>
+      <osVersion>6.2</osVersion>
+      <osArchitecture>x86</osArchitecture>
+      <systemModel>Aspire 5830TG</systemModel>
+      <systemManufacturer>Acer</systemManufacturer>
+      <cpuManufacturer>GenuineIntel</cpuManufacturer>
+      <serialNumber>LXRHK020731232090E1601</serialNumber>
+   </environment>
+   <registry urn="urn:st:557adf61-831d-4d1d-9db9-5c6c98d94d0d" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:8fcef7c5-1c64-46d5-8415-900e85f71466</instance_urn>
+         <product_name>Java SE 7 Development Kit</product_name>
+         <product_version>1.7.0_02</product_version>
+         <product_urn>JSEZ9-007-ZZZZ</product_urn>
+         <product_parent_urn>urn:uuid:dc1704fe-264f-11dc-9482-080020a9ed93</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 7 (Java SE 7)</product_parent>
+         <product_defined_inst_id>id=1.7.0_02-b13 x86,dir=C:\Program Files (x86)\Java\jdk1.7.0_02\jre</product_defined_inst_id>
+         <product_vendor>Oracle Corporation</product_vendor>
+         <platform_arch>x86</platform_arch>
+         <timestamp>2017-02-13 08:38:11 GMT</timestamp>
+         <container>global</container>
+         <source>Windows JDK i586 installer</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
